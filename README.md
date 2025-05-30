@@ -20,9 +20,7 @@ A simple and interactive web application to test and improve your typing speed a
 - Visual feedback for correct/incorrect keystrokes.
 - Leaderboard to track high scores (optional feature).
 
-## Demo
-Try the live demo [here]() (replace with your deployed link if available).  
-![Demo Screenshot](https://github.com/ChinmayBhattt/Typing-Speed-Test/blob/main/Assets/TST.jpg) *(Add a screenshot of your app here)*
+![](https://github.com/ChinmayBhattt/Typing-Speed-Test/blob/main/Assets/TST.jpg) 
 
 ## Installation
 1. Clone the repository:
