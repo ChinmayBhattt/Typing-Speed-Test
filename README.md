@@ -1,5 +1,6 @@
 # Typing Speed Test
 
+Made - VS Code + Github Copilet
 ![Typing Speed Test](https://img.shields.io/badge/version-1.0.0-blue.svg)  
 A simple and interactive web application to test and improve your typing speed and accuracy.
 
